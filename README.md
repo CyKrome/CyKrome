@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CyKrome
+- 👀 I’m interested in Coding, Software Dev, Web Dev and Pentesting
+- 🌱 I’m currently learning BTech 1st year
+- 💞️ I’m looking to collaborate on system learning and usage of Kali Linux
+- 📫 How to reach me - OwaizKhan1111@gmail.com
